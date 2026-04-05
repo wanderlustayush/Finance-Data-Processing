@@ -67,7 +67,9 @@ Authorization: Bearer your_token
 
 # Test Accounts
 Admin - admin@finance.com / admin123
+...
 Analyst - analyst@finance.com / analyst123
+...
 Viewer - viewer@finance.com / viewer123
 
 
