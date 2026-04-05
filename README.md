@@ -1,5 +1,5 @@
 # Finance Data processing Backend
-As per the assessment detail this is a backend project built with Node.js, Express and MongoDB Atlas.
+This is a backend project built with Node.js, Express and MongoDB Atlas.
 
 
 # About
@@ -80,4 +80,4 @@ Viewer - viewer@finance.com / viewer123
 
 
 # Live API
-Link will be added after deployment
+https://finance-data-processing-2e7m.onrender.com
