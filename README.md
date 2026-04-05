@@ -16,7 +16,9 @@ I made this project to handle financial records with different user roles. Admin
 
 # setup
 Clone the project and run
+...
 npm install
+...
 npm run dev
 
 Add a .env file with these values
