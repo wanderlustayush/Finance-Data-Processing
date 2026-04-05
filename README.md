@@ -16,9 +16,9 @@ I made this project to handle financial records with different user roles. Admin
 
 # setup
 Clone the project and run
-...
+
 npm install
-...
+
 npm run dev
 
 Add a .env file with these values
@@ -67,9 +67,9 @@ Authorization: Bearer your_token
 
 # Test Accounts
 Admin - admin@finance.com / admin123
-...
+
 Analyst - analyst@finance.com / analyst123
-...
+
 Viewer - viewer@finance.com / viewer123
 
 
